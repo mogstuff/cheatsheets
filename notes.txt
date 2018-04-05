@@ -1,0 +1,25 @@
+mogstuff:~/workspace (versionControlWithGit) $ history
+    1  git status
+    2  git remote
+    3  git branch gitnotes
+    4  git -r
+    5  git r
+    6  git branch
+    7  git branch -d gitnotes
+    8  git branch
+    9  git status
+   10  history
+   11  reset
+   12  git status
+   13  git remote
+   14  git branch
+   15  git checkout -b versionControlWithGit
+   16  git branch
+   17  git push -u origin versionControlWithGit
+   18  touch notes.txt
+   19  git add .
+   20  git commit -m "added notes file"
+   21  git status
+   22  git push -u origin versionControlWithGit
+   23  history
+mogstuff:~/workspace (versionControlWithGit) $ 
